@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @ali94wadi
- Sign out
- Watch 10
-  Star 106  Fork 127 mmistakes/jekyll-theme-basically-basic
- Code  Issues 5  Pull requests 0  Projects 0  Wiki  Insights
-Branch: master Find file Copy pathjekyll-theme-basically-basic/example/_data/cv.json
-e6ecaeb  on Mar 17
-@mmistakes mmistakes Update sample CV data
-1 contributor
-RawBlameHistory     
-129 lines (128 sloc)  3.38 KB
 {
   "basics": {
     "name": "Dugan Nash",
@@ -144,15 +126,3 @@ RawBlameHistory
     }
   ]
 }
-© 2017 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
