@@ -22,7 +22,7 @@ url: ali94wadi.github.io # the base hostname & protocol for your site e.g. "http
 author: 
   name: Ali Wadi
   twitter: ali94wadi
-  picture: https://raw.githubusercontent.com/ali94wadi/ali94wadi.github.io/tree/master/images/avatar.png
+  picture: https://raw.githubusercontent.com/ali94wadi/ali94wadi.github.io/master/images/avatar.png
 twitter_username: ali94wadi
 github_username: ali94wadi
 logo: # path of site logo, e.g. "/assets/images/logo.png"
