@@ -16,7 +16,7 @@
 lang: en-US
 title: Ali Wadi's "UnderConstruction" site
 email: aliwadi94@gmail.com
-description:
+description: This is where I document my research ventures and detail my personal projects, which you will find on my Github (sooooon).
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: ali94wadi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: 
