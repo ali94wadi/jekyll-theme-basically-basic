@@ -1,0 +1,8 @@
+---
+layout: home
+published: true
+---
+---
+layout: home
+paginate: true
+---
